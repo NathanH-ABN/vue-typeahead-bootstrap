@@ -216,9 +216,9 @@ export default {
       evt.preventDefault()
     },
     hitActiveListItem() {
-      if (this.activeListItem < 0) {
-        this.selectNextListItem()
-      }
+      //if (this.activeListItem < 0) {
+      //  this.selectNextListItem()
+      //}
       if (this.activeListItem >= 0) {
         this.$emit('hit', this.matchedItems[this.activeListItem])
       }
