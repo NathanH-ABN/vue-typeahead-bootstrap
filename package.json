@@ -1,5 +1,5 @@
 {
-  "name": "@vue-bootstrap-components/vue-bootstrap-autocomplete",
+  "name": "vue-typeahead-bootstrap",
   "version": "2.15.3",
   "private": false,
   "description": "A typeahead/autocomplete component for Vue 2 using Bootstrap 4",
